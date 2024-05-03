@@ -1,0 +1,14 @@
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\bin\Debug\net8.0\jogarDados.exe
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\bin\Debug\net8.0\jogarDados.deps.json
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\bin\Debug\net8.0\jogarDados.runtimeconfig.json
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\bin\Debug\net8.0\jogarDados.dll
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\bin\Debug\net8.0\jogarDados.pdb
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.AssemblyInfoInputs.cache
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.AssemblyInfo.cs
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.csproj.CoreCompileInputs.cache
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.dll
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\refint\jogarDados.dll
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.pdb
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\jogarDados.genruntimeconfig.cache
+C:\Users\wende\OneDrive\Documentos\cs\CsharpProjects\GuidedProject\Starter\jogarDados\obj\Debug\net8.0\ref\jogarDados.dll
